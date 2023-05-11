@@ -1,0 +1,26 @@
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.deps.json
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.runtimeconfig.json
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.runtimeconfig.dev.json
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.dll
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.pdb
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.csproj.AssemblyReference.cache
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.AssemblyInfoInputs.cache
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.AssemblyInfo.cs
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.dll
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.pdb
+/Users/aleks/Projects/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.genruntimeconfig.cache
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.deps.json
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.runtimeconfig.json
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.runtimeconfig.dev.json
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.dll
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/bin/Debug/netcoreapp3.1/operacje_na_danych.pdb
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.csproj.AssemblyReference.cache
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.AssemblyInfoInputs.cache
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.AssemblyInfo.cs
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.csproj.CoreCompileInputs.cache
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.dll
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.pdb
+/Users/aleks/Desktop/projekty do cv/C#/operacje_na_danych/operacje_na_danych/obj/Debug/netcoreapp3.1/operacje_na_danych.genruntimeconfig.cache
